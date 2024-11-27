@@ -1,0 +1,10 @@
+beautifulsoup4
+jupyter
+google-generativeai
+python-dotenv
+pandas
+matplotlib
+tiktoken
+scipy
+sacrebleu
+rouge
